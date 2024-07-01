@@ -2,12 +2,7 @@
 
 
 /**
- *
- *reset to 98
- *
- *
- *
- *
+ * the wanted function
  */
 
 void reset_to_98(int *n)
