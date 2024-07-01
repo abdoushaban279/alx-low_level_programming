@@ -1,5 +1,8 @@
 #include "main.h"
 
+/**
+ * the doc for the function
+ */
 
 void _puts(char *str)
 {
